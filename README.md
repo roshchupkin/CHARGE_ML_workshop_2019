@@ -17,3 +17,7 @@ and methodological barriers” (Chairs: Joshua Bis, Bruce Patsy, Eric Boerwinkle
 # Slides
 * [Introduction slides](http://roshchupkin.org/reveal/charge_ml_2019)
 * [Visible Machine Learning: black box vs interpretability]( http://roshchupkin.org/reveal/charge_ml_2019/VisibleMachineLearning.pdf)
+
+# Organizers 
+* Gennady Roshchupkin **g.roshchupkin@erasmusmc.nl**
+* Arno van Hilten **a.vanhilten@erasmusmc.nl**
